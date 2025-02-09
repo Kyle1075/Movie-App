@@ -1,5 +1,5 @@
 # Movie Application 🎥
-
+Deploy link: https://purple-meadow-09333ff03.4.azurestaticapps.net/
 
 ## 📖 Overview
 Discover movies with detailed info, and ratings. Share your thoughts, rate films, and connect with fellow fans in interactive groups. Use filters to explore new titles, create favorite lists, and personalize your cinema experience. Perfect for every movie lover, this app brings everything you need for a seamless and fun movie journey!
